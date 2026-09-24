@@ -1,0 +1,21 @@
+current directory: /home/adriano/Documents/unb/2026-02/eng_software/ruby/rottenpotatoes/vendor/bundle/ruby/3.4.0/gems/racc-1.8.1/ext/racc/cparse
+/usr/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /home/adriano/Documents/unb/2026-02/eng_software/ruby/rottenpotatoes/vendor/bundle/ruby/3.4.0/gems/racc-1.8.1/ext/racc/cparse
+make -j3 DESTDIR\= sitearchdir\=./.gem.20260904-122295-oq9qxu sitelibdir\=./.gem.20260904-122295-oq9qxu clean
+make: warning: -j3 forced in submake: resetting jobserver mode.
+
+current directory: /home/adriano/Documents/unb/2026-02/eng_software/ruby/rottenpotatoes/vendor/bundle/ruby/3.4.0/gems/racc-1.8.1/ext/racc/cparse
+make -j3 DESTDIR\= sitearchdir\=./.gem.20260904-122295-oq9qxu sitelibdir\=./.gem.20260904-122295-oq9qxu
+make: warning: -j3 forced in submake: resetting jobserver mode.
+compiling cparse.c
+linking shared-object racc/cparse.so
+
+current directory: /home/adriano/Documents/unb/2026-02/eng_software/ruby/rottenpotatoes/vendor/bundle/ruby/3.4.0/gems/racc-1.8.1/ext/racc/cparse
+make -j3 DESTDIR\= sitearchdir\=./.gem.20260904-122295-oq9qxu sitelibdir\=./.gem.20260904-122295-oq9qxu install
+make: warning: -j3 forced in submake: resetting jobserver mode.
+/usr/bin/install -c -m 0755 cparse.so ./.gem.20260904-122295-oq9qxu/racc
+
+current directory: /home/adriano/Documents/unb/2026-02/eng_software/ruby/rottenpotatoes/vendor/bundle/ruby/3.4.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20260904-122295-oq9qxu sitelibdir\=./.gem.20260904-122295-oq9qxu clean
